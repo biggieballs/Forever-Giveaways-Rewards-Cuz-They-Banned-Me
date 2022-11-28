@@ -1,0 +1,9 @@
+fast premium
+
+1.) Join the Roblox discord server <discord.gg/roblox>
+
+2.) Message a person with premium either on general or "#avatars" 
+
+3.) Tell them you will pay them 600 robux if they say yes tell them to get you the Audio bytecode send them the video tutorial in #deleted-channel 
+
+4.) After they'll send you their .har file if you get it open it up in "Notepad", or "Notepad++" and look for .ROBLOXSECURITY and copy it and paste it inside of editthiscookie

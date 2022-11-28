@@ -1,0 +1,8 @@
+To login:
+
+Username: "test"
+Password: "test"
+
+At first you will not see the real menu of options of the "Hell" Multi-Tool. 
+To get the full menu choose option "3) creater info."
+After pressing "any key" to continue, you will get the full menu with all the options!

@@ -1,0 +1,17 @@
+Pins Method
+
+PIN GUESS METHOD Credits: Hideyoshi#9243
+Start With:
+Birthday (Example: March 1 --> 0301)
+Discord Tag (Example #1381)
+0000
+9999
+1234
+6969
+Birthdate Year (Example: 1900)
+1337
+Accounts Phone Number Last 4 Digits (Example: 111-222-3333)
+
+Really usefull
+
+Not really a method , but yeah

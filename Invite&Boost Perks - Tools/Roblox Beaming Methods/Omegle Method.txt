@@ -1,0 +1,9 @@
+Omegle Method - 
+
+This method basically allows you to get easy hits,and auto farm cookies.
+1.Install the extension Omegle darkmode and antispam,this will allow you to send automatic messages and get more cookies at once https://chrome.google.com/webstore/detail/omegle-anti-spam-and-dark/cgefmcnibjiomgjkngndppnidjifgobl?hl=en
+2.Once installed,click the extension. Click the welcome message box and enter your desired message,this will be sent when an omegle chat starts.For example,using har: "Heyy,I'm making a vibe game and I need cool avatars to use as npcs (insert your discord here)"
+Welcome message delay is the amount of seconds before the automatic message sends,I usually use 6 but it's all preference.
+3.Once the extension is set up,head on over to omegle,enter the tags.
+4.Roblox, Robux
+5.Click enter and your bot will start running,if you want more bots simply open more tabs.

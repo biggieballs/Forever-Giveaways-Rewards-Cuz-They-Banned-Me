@@ -1,0 +1,8 @@
+https://cdn.discordapp.com/attachments/833555776340885504/833555844095541279/UNFOLLOW_BOT_PYTHON.txt
+
+Requirements: 
+
+UNFOLLOW BOT PYTHON
+ 
+DEV NOTES:
+Remember to install the requests module by going into cmd and entering pip install requests (you need to have python add to path in order to do this).

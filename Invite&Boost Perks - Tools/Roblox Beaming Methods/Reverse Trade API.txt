@@ -1,0 +1,12 @@
+Now this rarely occurs anymore but if anyone tries using trade-api on you this is a method to reverse it on them.
+'
+
+1.) Wait for them to start the process they'll give you their tradeID and tell you to put it in the box and click "Try it out."
+
+2.) Don't follow the steps instead ask for their high valued items or smalls and give them a small in return 
+
+3.) After you send a trade go to https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=10 and get the outbound tradeID you sent
+
+4.) Convince them to give you proof that this will check whether your item is poisoned or not give them your tradeID and tell them to put that inside of the box  and click "Try it out"
+
+5.) Congratulations you beamed with reverse-trade-api

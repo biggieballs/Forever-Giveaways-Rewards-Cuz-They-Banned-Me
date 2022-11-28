@@ -1,0 +1,7 @@
+When you hack an account you normally check their limiteds, or items within a game normally in 2 minutes you get logged out of the account. This method will increase your time on the account and make it more difficult for them to login
+
+1.) Logout of all the sessions in "settings", then go to security and scroll down until you see "Signout of all sessions"
+
+2.) Reset the password and set the email as your alternate email and you have full access after 
+
+3.) Transfer the items to an alternate and signout make sure you put the password on the status unless you want the account keep it as is

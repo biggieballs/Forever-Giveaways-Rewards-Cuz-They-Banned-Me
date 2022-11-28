@@ -1,0 +1,26 @@
+Support Method
+
+Support method
+When you contact roblox support regarding an account the only way you can verify ownership is by:
+1. Emailing them off the og email
+2. Providing them with original billing receipts.
+This method involves the second verification method. For example, I contacted roblox regarding Snow_crash. Here was the reply:
+https://media.discordapp.net/attachments/696029935126446102/697127061298479185/image0.png
+
+When they ask for a original billing receipt it means they want you to provide them with that user's first ever USD purchase on roblox such as builders club or robux.
+Roblox has an API which tells you when somebody first owned an item. Roblox is dumb for this because we can check this API on the user's BC hats and that will tell us when that user's first purchase.
+
+When you provide roblox with the receipt all they check for is the date. They are lazy because they go through 10k+ emails a day so don't pay too much attention to if an email is faked.
+I have a bot which can retrieve the first purchase date in seconds so when roblox reply asking you to provide a receipt we inspect element a real receipt with the date we just got.
+This is the fake receipt I sent for snow_crash
+https://media.discordapp.net/attachments/696029935126446102/697127793338875985/thumbnail.png
+
+This is the result:
+https://media.discordapp.net/attachments/696029935126446102/697128084486357012/image0.png
+
+The only limits are:
+1. Go for 2015+ because they are more likely to have used itunes, paypal, windows store, google play. Roblox dont let you provide receipts for credit card purchases.
+2. Their inventory cannot be private or I will not be able to use the api on them.
+3. Also do not go for admins or this risks the method getting patched.
+
+https://auth.roblox.com/docs#!/Passwords/post_v1_user_passwords_change

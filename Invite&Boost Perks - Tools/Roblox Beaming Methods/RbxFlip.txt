@@ -1,0 +1,11 @@
+Rbx Flip
+
+1.) Go to rbxflip.com and find a victim you're gonna comp. (Note: make sure the person your comping made his account between november to october. 2020
+Find out the date in which the account he made was created (Most alts for flip buy premium the day they make the account.)
+ 
+2.) Once u verified that the guy bought premium on that day go to roblox.com/support and fill out a form that your account has been hacked.
+Roblox should respond in a day but that should be enough time to follow through with it.
+ 
+3.) Roblox should ask for the first reciept added on the account, Following through just inspect element the day the account was made and respond with the reciept.
+Roblox will then go through the reciept and see that its the right date. and should revert the email of the account.
+this is just explained better

